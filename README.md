@@ -4,8 +4,8 @@ TDD Workshop
 * Supports Node.js and Python
 
 # Node.js
-- node v12.18.3
-- npm 6.14.13
+- node v20.11.1
+- npm 10.8.1
 
 ## Commands
 - `npm install && npm run test` to run tests.

@@ -1,7 +1,7 @@
 {
-  "name": "@takami-h/fizzbuzzjs",
+  "name": "RH TDD JS",
   "version": "1.0.0",
-  "description": "TDD Fizz Buzz in JavaScript",
+  "description": "TDD in JavaScript",
   "private": true,
   "type": "module",
   "main": "src/index.js",
@@ -10,14 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/takami-h/fizzbuzzjs.git"
+    "url": "git+https://github.com/f-kana/rh-tdd-js.git"
   },
-  "author": "Takami Hirata",
+  "author": "KANAYAMA Fumiaki",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/takami-h/fizzbuzzjs/issues"
-  },
-  "homepage": "https://github.com/takami-h/fizzbuzzjs#readme",
   "devDependencies": {
     "@types/jest": "^27.4.1",
     "eslint": "^8.12.0",
